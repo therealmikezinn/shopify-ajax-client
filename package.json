@@ -1,0 +1,10 @@
+{
+  "name": "shopify-ajax-client",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Michael Zinn",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
+}
